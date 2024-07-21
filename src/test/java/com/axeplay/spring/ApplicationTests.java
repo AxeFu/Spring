@@ -1,4 +1,4 @@
-package com.axeplay.Spring;
+package com.axeplay.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

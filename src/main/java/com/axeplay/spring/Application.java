@@ -1,4 +1,4 @@
-package com.axeplay.Spring;
+package com.axeplay.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
