@@ -11,7 +11,7 @@ public class Application {
 	public static void main(String[] args) {
 		ApplicationContext ctx = SpringApplication.run(Application.class, args);
 		try {
-			CatSound catSound = (CatSound) ctx.getBean("dog");
+			CatSound catSound = (CatSound) ctx.getBean("catSound");
 
 			System.out.println(catSound.sound());
 		} catch (Exception e) {
